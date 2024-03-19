@@ -1,5 +1,0 @@
-services:
-  - name: Projeto_placas
-    template: python
-    start: nixpacks
-    nixpacks: ./nixpacks.toml
