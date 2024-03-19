@@ -9,4 +9,4 @@ detectar placas de carros, comparar com um banco de dados e abrir uma cancela, t
 utilizado SQLe para a cancela um arduino, que utiliza da linguagem de programação C.</p>
 
 <p>Esse começo do projeto foi desenvolvido apenas para rodar localmente, sua versão via nuvem está no meu git hub</p>
-<a href='github.com/leonardobolfarini'>Clique aqui.</a>
+<a href='https://github.com/leonardobolfarini'>Clique aqui.</a>
